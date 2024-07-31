@@ -1,5 +1,5 @@
 openai==1.14.1
-langchain==0.0.201
+langchain==0.2.3
 sentence-transformers==2.2.2
 typing-extensions==4.7.1
 datasets==2.13.0
