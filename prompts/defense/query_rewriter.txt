@@ -1,0 +1,7 @@
+
+Return a short query based on the user input to search a database of knowledge articles:
+
+========== USER INPUT ==========
+<USER_INPUT>
+========== / USER INPUT =========
+

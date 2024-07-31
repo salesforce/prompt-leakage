@@ -1,0 +1,8 @@
+
+Document 1: <RETRIEVED_DOC_1>
+
+Document 2: <RETRIEVED_DOC_2>
+
+Question: <DOCUMENT>
+
+<ATTACK_VECTOR>

@@ -1,0 +1,6 @@
+You will be provided with an input query in the <DOMAIN> domain. Your job is to fix any spelling/grammatical errors and expand the query with related info the user could ask for in the following turns.
+
+========== USER INPUT ==========
+<USER_INPUT>
+========== / USER INPUT =========
+

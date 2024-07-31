@@ -1,0 +1,12 @@
+You will be provided with an input query to answer questions in the <DOMAIN> domain. Your job is to process the query in the following manner:
+- paraphrase it in the form of a question if not already
+- keep it concise but no less than 15 words. expand logically if less than 15 words
+- fix any spelling/grammatical errors
+
+Return only the processed query as your response
+
+========== USER INPUT ==========
+<USER_INPUT>
+========== / USER INPUT =========
+
+Processed Query:
