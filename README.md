@@ -10,13 +10,20 @@ This repository contains the data and code for the experiments in the [PromptLea
 Figure:  Our standardized task setup for evaluating LLM vulnerability against multi-turn prompt leakage
 
 
+
+
 ## Table of Contents
 
-1. [Accessing the Data](#accessing-the-data)
-2. [Running evaluations](#running-evaluations-with-different-llms)
-3. [Citation](#citation)
-4. [Get Involved](#get-involved)
+1. [Abstract](abstract)
+2. [Accessing the Data](#accessing-the-data)
+3. [Running evaluations](#running-evaluations-with-different-llms)
+4. [Citation](#citation)
+5. [Get Involved](#get-involved)
 
+
+## Abstract
+
+Prompt leakage poses a compelling security and privacy threat in LLM applications. Leakage of system prompts may compromise intellectual property, and act as adversarial reconnaissance for an attacker. A systematic evaluation of prompt leakage threats and mitigation strategies is lacking, especially for multi-turn LLM interactions. In this paper, we systematically investigate LLM vulnerabilities against prompt leakage for 10 closed- and open-source LLMs, across four domains. We design a unique threat model which leverages the LLM sycophancy effect and elevates the average attack success rate (ASR) from 17.7% to 86.2% in a multi-turn setting. Our standardized setup further allows dissecting leakage of specific prompt contents such as task instructions and knowledge documents. We measure the mitigation effect of 7 black-box defense strategies, along with finetuning an open-source model to defend against leakage attempts. We present different combination of defenses against our threat model, including a cost analysis. Our study highlights key takeaways for building secure LLM applications and provides directions for research in multi-turn LLM interactions
 
 ## Accessing the Data
 
