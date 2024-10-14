@@ -4,7 +4,7 @@
 This repository contains the data and code for the experiments in the [PromptLeakage](https://arxiv.org/abs/2404.16251v3) EMNLP 2024 paper.
 
 <p align="center">
-  <img height="400" src="figure.pdf">
+  <img height="400" src="figure-prompt-leakage.jpg">
 </p>
 
 Figure:  Our standardized task setup for evaluating LLM vulnerability against multi-turn prompt leakage
